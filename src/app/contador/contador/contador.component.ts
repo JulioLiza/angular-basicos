@@ -18,7 +18,7 @@ import { Component } from '@angular/core';
 
 export class ContadorComponent{
     titulo:string = 'Contador APP';
-    numero:number=10;
+    numero:number=20;
     base:number=5;
    
   
